@@ -1,4 +1,7 @@
 Aleksandra Sęk
 biblioteka turtle w Pythonie
 Brak ¯\_(ツ)_/¯
+<<<<<<< HEAD
 cyan
+=======
+>>>>>>> new_tag
